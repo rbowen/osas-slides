@@ -14,7 +14,7 @@ The CentOS project is responsible for the production of CentOS, an enterprise-re
 ---
 ![Ceph](images/ceph-logo.svg)
 
-Ceph is an open source and freely available distributed object store and file system that relies upon the RADOS (Reliable Autonomic Distributed Object Store) foundation.
+Ceph is an open source distributed object storage system designed to provide high performance, reliability, and massive scalability.
 ---
 ![Fedora](images/fedora-logo.svg)
 
