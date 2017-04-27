@@ -37,5 +37,8 @@ RDO provides the open source foundation for your organization to build a private
 ![Foreman](images/foreman.svg)
 
 Foreman is a complete lifecycle management tool for physical and virtual servers that gives administrators the power to easily automate repetitive tasks, quickly deploy applications, and proactively manage servers, on-premise or in the cloud.
+---
+![Pulp](images/pulp-logo.svg)
 
+Pulp makes it easy to fetch, upload, host, publish, and apply software packages. It supports RPM, Python, Docker, Puppet, and OSTree content types.
 
