@@ -26,7 +26,8 @@ The Gluster Project community produces and releases GlusterFS, open source softw
 ---
 ![Atomic](images/atomic-logo.svg)
 
-Project Atomic advances the way containerized applications are created, deployed, and managed. Specifications, standards, and implementations contribute to the growing functionality and security of containers.
+Project Atomic implements the foundations of the cloud-native infrastructure of the future.  Atomic Host, Cockpit, Commissaire, Registry, container security and container libraries supply the building blocks on which new container cloud stacks run.
+
 ---
 background: #800f0f
 
@@ -41,4 +42,3 @@ Foreman is a complete lifecycle management tool for physical and virtual servers
 ![Pulp](images/pulp-logo.svg)
 
 Pulp makes it easy to fetch, upload, host, publish, and apply software packages. It supports RPM, Python, Docker, Puppet, and OSTree content types.
-
