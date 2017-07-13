@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>OSAS Projects Overview</title>
+    <title>Mentoring: Your path to immortality</title>
     <meta charset="utf-8">
     <style>
 
@@ -40,6 +40,10 @@
         font-size: 140%;
       }
 
+      small {
+          font-size: 50%;
+      }
+
     /* Ensure certain elements are never larger than the slide itself */
       img, video, iframe {
             max-width: 100%;
@@ -67,19 +71,6 @@
       var slideshow = remark.create({
             sourceUrl: 'slides.md'
       });
-
-	// every 8 seconds (change to your desired interval), fire the helper function
-   setInterval(function () {carousel(slideshow)}, 8000);
-
-    function carousel(varObject) {
-        var slideCount = varObject.getSlideCount()-1;
-        var currentSlide = varObject.getCurrentSlideIndex();
-        // if the slideshow is on the last slide, go back to the first slide; if not, call gotoNextSlide();
-        if (currentSlide == slideCount) {
-            varObject.gotoFirstSlide();
-        }
-        else { varObject.gotoNextSlide(); }
-    }
 
     </script>
   </body>
