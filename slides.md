@@ -136,8 +136,7 @@ Choose your students with caution, or they might destroy the world
 ![Generosity](images/generosity.jpg)
 <small>Image: Creative commons, goodnet.org</small>
 
----
-
+--- 
 ## They're not trusted yet
 
 * How will they become trusted if we don't give them space to make
@@ -255,9 +254,13 @@ of your comfort zone.
 
 ---
 
+<<<<<<< HEAD
 ## It models the behavior that they should then follow for others
 
 ![baton](images/baton.jpg)
+=======
+Project Atomic implements the foundations of the cloud-native infrastructure of the future.  Atomic Host, Cockpit, Commissaire, Registry, container security and container libraries supply the building blocks on which new container cloud stacks run.
+>>>>>>> 6989a0215826b145292e789b7616461beaa7a234
 
 ---
 
@@ -276,6 +279,7 @@ result of Ken asking me. Every wall of my office is covered with these.
 
 ---
 
+<<<<<<< HEAD
 This is Jim. In 1998 or so, he told me to go fix it myself, rather than
 waiting for him to do it.
 
